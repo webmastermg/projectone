@@ -1,3 +1,3 @@
 # projectone
 First repository
-# First repository
+I love :coffee: :pizza:, and :dancer:. 
